@@ -11,7 +11,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-[![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/seu-usuario/github-readme-stats)
+[![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohreismarques&show_icons=true&theme=radical)](https://github.com/pedrohreismarques/github-readme-stats)
 
 ## 👨‍💻 Projetos em Destaque
 
