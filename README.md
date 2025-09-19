@@ -1,13 +1,13 @@
 # Olá, eu sou Pedro Henrique! 👋
 
-
+Olá, tudo bem? Me chamo Pedro Henrique e atualmente estou finalizando meus estudos no Ensino Médio e cursando Técnico em Informática no Senac Tatuapé. Sou um cara que gosta MUITO de estudar e buscar sempre evoluir como pessoa e profissional. Pretendo cursar técnologo em Redes de Computadores e fazer uma especialização em Engenharia de Redes para me firmar nessa área e poder ensinar sobre. Acompanhe meu Github para estar por dentro de alguns projetos e materiais de estudos sobre Redes e Infraestrutura e alguns outros temas.
 
 ## 🚀 Sobre mim
 
-- 🌱 Aprendendo HTML5 e CSS3
-- 🤔 Buscando ajuda com Programação e Desenvolvimento de Software
+- 🌱 Aprendendo HTML5, CSS3 e Linguagem C
+- 🤔 Buscando ajuda com Desenvolvimento Web
 - 💬 Pergunte-me sobre Hardware e Redes de computadores
-- ⚡ Curiosidade: Sou músico e cristão
+- ⚡ Curiosidade: Sou músico e cristão!
 
 
 ## 📈 Estatísticas do GitHub
