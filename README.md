@@ -26,7 +26,7 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 
 ### 🧩 Infraestrutura e Hardware
 ![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white) _
-![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white) _
+![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white)
 
 - Montagem e manutenção de **Microcomputadores**  
 - Instalação e configuração de **Redes Locais (LAN)**  
