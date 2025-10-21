@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou o Pedro Henrique!
 
-🎓 Atualmente curso **Técnico em Informática** pelo **Senac**, onde desenvolvo habilidades práticas e teóricas em tecnologia da informação.  
+🎓 Atualmente curso **Técnico em Informática** pelo **Senac São Paulo**, onde desenvolvo habilidades práticas e teóricas em tecnologia da informação.  
 📡 Em breve, iniciarei o **Tecnólogo em Redes de Computadores** na **Faculdade Impacta**, ampliando meu conhecimento em infraestrutura e conectividade.
 
 ---
@@ -88,14 +88,6 @@ Conteúdos abordados:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🐍 Snake dos Commits
-
-<p align="center">
-  <img src="https://github.com/pedrohreismarques/pedrohreismarques/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
