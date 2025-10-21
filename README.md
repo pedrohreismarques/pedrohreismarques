@@ -1,6 +1,6 @@
 <!-- Banner personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=200&section=header&&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Pedro Henrique dos Reis Marques"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=120&section=header&&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Pedro Henrique dos Reis Marques"/>
 </p>
 
 # 👋 Olá, eu sou o Pedro Henrique!
