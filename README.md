@@ -5,22 +5,6 @@
 
 ---
 
-## 🧩 Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/pedrohreismarques">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> _
-  </a>
-  <a href="https://linkedin.com/in/pedrohreismarques">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> _
-  </a>
-  <a href="mailto:pedrohreismarques@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> _
-  </a>
-</p>
-
----
-
 ## 🧠 Sobre mim
 
 Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e programação**.  
@@ -87,9 +71,9 @@ Conteúdos abordados:
 
 ## 🌐 Contatos
 
-📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com) _
-🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques) _ 
-💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques) _
+📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques)
+💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques)
 
 ---
 
