@@ -4,9 +4,9 @@ Olá, tudo bem? Me chamo Pedro Henrique e atualmente estou finalizando meus estu
 
 ## 🚀 Sobre mim
 
-- 🌱 Aprendendo HTML5, CSS3 e Linguagem C
+- 🌱 Aprendendo HTML5, CSS3 e Python
 - 🤔 Buscando ajuda com Desenvolvimento Web
-- 💬 Pergunte-me sobre Hardware e Redes de computadores
+- 💬 Pergunte-me sobre Hardware, Redes e Infraestrutura
 - ⚡ Curiosidade: Sou músico e cristão!
 
 
