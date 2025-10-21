@@ -1,8 +1,3 @@
-<!-- Banner personalizado -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=120&section=header&&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Pedro Henrique dos Reis Marques"/>
-</p>
-
 # 👋 Olá, eu sou o Pedro Henrique!
 
 🎓 Atualmente curso **Técnico em Informática** pelo **Senac São Paulo**, onde desenvolvo habilidades práticas e teóricas em tecnologia da informação.  
@@ -84,9 +79,9 @@ Conteúdos abordados:
 
 ## ⚙️ Tecnologias e Ferramentas
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) _
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) _
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) _
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -102,7 +97,3 @@ Conteúdos abordados:
 > 💬 “A tecnologia é a arte de transformar ideias em soluções que mudam o mundo.”
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=120&section=footer"/>
-</p>
