@@ -1,20 +1,116 @@
-# Olá, eu sou Pedro Henrique! 👋
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=200&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner Pedro Henrique"/>
+</p>
 
-Olá, tudo bem? Me chamo Pedro Henrique e atualmente estou finalizando meus estudos no Ensino Médio e cursando Técnico em Informática no Senac Tatuapé. Sou um cara que gosta MUITO de estudar e buscar sempre evoluir como pessoa e profissional. Pretendo cursar técnologo em Redes de Computadores e fazer uma especialização em Engenharia de Redes para me firmar nessa área e poder ensinar sobre. Acompanhe meu Github para estar por dentro de alguns projetos e materiais de estudos sobre Redes e Infraestrutura e alguns outros temas.
+# 👋 Olá, eu sou o Pedro Henrique!
 
-## 🚀 Sobre mim
+🎓 Atualmente curso **Técnico em Informática** pelo **Senac**, onde desenvolvo habilidades práticas e teóricas em tecnologia da informação.  
+📡 Em breve, iniciarei o **Tecnólogo em Redes de Computadores** na **Faculdade Impacta**, ampliando meu conhecimento em infraestrutura e conectividade.
 
-- 🌱 Aprendendo HTML5, CSS3 e Python
-- 🤔 Buscando ajuda com Desenvolvimento Web
-- 💬 Pergunte-me sobre Hardware, Redes e Infraestrutura
-- ⚡ Curiosidade: Sou músico e cristão!
+---
 
+## 🧩 Conecte-se comigo
 
-## 📈 Estatísticas do GitHub
+<p align="center">
+  <a href="https://github.com/pedrohreismarques">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pedrohreismarques">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedrohreismarques@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-[![Pedro Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohreismarques&show_icons=true&theme=radical)](https://github.com/pedrohreismarques/github-readme-stats)
+---
 
-## 📞 Contato
+## 🧠 Sobre mim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohreismarques)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohreismarques@gmail.com)
+Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e programação**.  
+Gosto de entender cada parte de um sistema — desde o hardware até o software — e estou sempre buscando aprender mais sobre o universo da **TI**.  
+Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, contribuindo com soluções eficientes e seguras.
+
+---
+
+## 💻 Habilidades Técnicas
+
+### 🌐 Desenvolvimento
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas  
+- **Python** — Lógica de programação, automação e fundamentos de back-end  
+- **Lógica de Programação** e **Banco de Dados**  
+- **Desenvolvimento de Aplicações Desktop e Web**
+
+### 🧩 Infraestrutura e Hardware
+![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white)
+
+- Montagem e manutenção de **microcomputadores**  
+- Instalação e configuração de **redes locais (LAN)**  
+- Noções de **segurança da informação** e **infraestrutura de TI**
+
+### 🖼️ Design e Usabilidade
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+- Manipulação básica de **imagens gráficas**  
+- Organização de elementos estruturais de **sites e interfaces**
+
+---
+
+## 📘 Formação
+
+🎓 **Técnico em Informática – Senac São Paulo**  
+Conteúdos abordados:
+> Montagem e manutenção de computadores, instalação e configuração de redes locais, desenvolvimento de algoritmos, bancos de dados, criação de aplicativos desktop e web, manipulação de imagens e estruturação de sites.
+
+🎯 **Futuro Tecnólogo em Redes de Computadores – Faculdade Impacta**  
+> Foco em infraestrutura, redes corporativas, administração de servidores e segurança de redes.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrohreismarques&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohreismarques&layout=compact&theme=tokyonight&hide_border=false" height="180em"/>
+</p>
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🐍 Snake dos Commits
+
+<p align="center">
+  <img src="https://github.com/pedrohreismarques/pedrohreismarques/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🌐 Contatos
+
+📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques)  
+💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques)
+
+---
+
+> 💬 “A tecnologia é a arte de transformar ideias em soluções que mudam o mundo.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4CC&height=120&section=footer"/>
+</p>
