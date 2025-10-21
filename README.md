@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/pedrohreismarques">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> _
   </a>
   <a href="https://linkedin.com/in/pedrohreismarques">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> _
   </a>
   <a href="mailto:pedrohreismarques@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> _
   </a>
 </p>
 
@@ -32,28 +32,27 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 ## 💻 Habilidades Técnicas
 
 ### 🌐 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) _
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) _
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) _
 
 - **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas  
-- **Python** — Lógica de programação, automação e fundamentos de back-end  
-- **Lógica de Programação** e **Banco de Dados**  
+- **Python** — Lógica de programação, automação e fundamentos de back-end
 - **Desenvolvimento de Aplicações Desktop e Web**
 
 ### 🧩 Infraestrutura e Hardware
-![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white)
+![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white) _
+![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white) _
 
-- Montagem e manutenção de **microcomputadores**  
-- Instalação e configuração de **redes locais (LAN)**  
-- Noções de **segurança da informação** e **infraestrutura de TI**
+- Montagem e manutenção de **Microcomputadores**  
+- Instalação e configuração de **Redes Locais (LAN)**  
+- Noções de **Segurança da Informação** e **Infraestrutura de TI**
 
 ### 🖼️ Design e Usabilidade
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- Manipulação básica de **imagens gráficas**  
-- Organização de elementos estruturais de **sites e interfaces**
+- Manipulação básica de **Imagens Gráficas**  
+- Organização de elementos estruturais de **Sites e Interfaces**
 
 ---
 
@@ -63,7 +62,7 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 Conteúdos abordados:
 > Montagem e manutenção de computadores, instalação e configuração de redes locais, desenvolvimento de algoritmos, bancos de dados, criação de aplicativos desktop e web, manipulação de imagens e estruturação de sites.
 
-🎯 **Futuro Tecnólogo em Redes de Computadores – Faculdade Impacta**  
+🎯 **Tecnólogo em Redes de Computadores – Faculdade Impacta**  
 > Foco em infraestrutura, redes corporativas, administração de servidores e segurança de redes.
 
 ---
@@ -88,9 +87,9 @@ Conteúdos abordados:
 
 ## 🌐 Contatos
 
-📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques)  
-💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques)
+📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com) _
+🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques) _ 
+💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques) _
 
 ---
 
