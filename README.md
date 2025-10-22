@@ -72,7 +72,9 @@ Conteúdos abordados:
 ## 🌐 Contatos
 
 📧 **E-mail:** [pedrohreismarques@gmail.com](mailto:pedrohreismarques@gmail.com)
+
 🔗 **LinkedIn:** [linkedin.com/in/pedrohreismarques](https://linkedin.com/in/pedrohreismarques) 
+
 💻 **GitHub:** [github.com/pedrohreismarques](https://github.com/pedrohreismarques)
 
 ---
