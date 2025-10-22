@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e programação**.  
+Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e infraestrutura, desenvolvimento web**...
 Gosto de entender cada parte de um sistema — desde o hardware até o software — e estou sempre buscando aprender mais sobre o universo da **TI**.  
 Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, contribuindo com soluções eficientes e seguras.
 
