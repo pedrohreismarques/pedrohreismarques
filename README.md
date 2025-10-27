@@ -35,17 +35,6 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 
 ---
 
-## 📘 Formação
-
-🎓 **Técnico em Informática – Senac São Paulo**  
-Conteúdos abordados:
-> Montagem e manutenção de computadores, instalação e configuração de redes locais, desenvolvimento de algoritmos, bancos de dados, criação de aplicativos desktop e web, manipulação de imagens e estruturação de sites.
-
-🎯 **Tecnólogo em Redes de Computadores – Faculdade Impacta**  
-> Foco em infraestrutura, redes corporativas, administração de servidores e segurança de redes.
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
