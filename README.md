@@ -1,10 +1,5 @@
 # 👋 Olá, eu sou o Pedro Henrique!
 
-🎓 Atualmente curso **Técnico em Informática** pelo **Senac São Paulo**, onde desenvolvo habilidades práticas e teóricas em tecnologia da informação.  
-📡 Em breve, iniciarei o **Tecnólogo em Redes de Computadores** na **Faculdade Impacta**, ampliando meu conhecimento em infraestrutura e conectividade.
-
----
-
 ## 🧠 Sobre mim
 
 Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e infraestrutura, desenvolvimento web**...
