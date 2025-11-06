@@ -7,17 +7,7 @@ Gosto de entender cada parte de um sistema — desde o hardware até o software 
 Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, contribuindo com soluções eficientes e seguras.
 
 ---
-
 ## 💻 Habilidades Técnicas
-
-### 🌐 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) _
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) _
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas  
-- **Python** — Lógica de programação, automação e fundamentos de back-end
-- **Desenvolvimento de Aplicações Desktop e Web**
 
 ### 🧩 Infraestrutura e Hardware
 ![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white) _
@@ -32,6 +22,15 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 
 - Manipulação básica de **Imagens Gráficas**  
 - Organização de elementos estruturais de **Sites e Interfaces**
+
+### 🌐 Desenvolvimento
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) _
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) _
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas  
+- **Python** — Lógica de programação, automação e fundamentos de back-end
+- **Desenvolvimento de Aplicações Desktop e Web**
 
 ---
 
