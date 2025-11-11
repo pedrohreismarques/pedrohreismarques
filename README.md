@@ -13,23 +13,22 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 ![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white) _
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white)
 
-- Montagem e manutenção de **Microcomputadores**  
-- Instalação e configuração de **Redes Locais (LAN)**  
-- Noções de **Segurança da Informação** e **Infraestrutura de TI**
+- Montagem e manutenção de **Microcomputadores**;
+- Instalação e configuração de **Redes Locais (LAN) e Redes de Áreas de Longas Distâncias (WAN)**;  
+- Noções de **Segurança da Informação** e **Infraestrutura de TI**.
 
 ### 🖼️ Design e Usabilidade
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- Manipulação básica de **Imagens Gráficas**  
-- Organização de elementos estruturais de **Sites e Interfaces**
+- Manipulação básica de **Imagens Gráficas**;
+- Organização de elementos estruturais de **Sites e Interfaces**;
+- Criação de **Cartazes e Posts** para Instagram.
 
 ### 🌐 Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) _
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) _
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 - **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas  
-- **Python** — Lógica de programação, automação e fundamentos de back-end
 - **Desenvolvimento de Aplicações Desktop e Web**
 
 ---
