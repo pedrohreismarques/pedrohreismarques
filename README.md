@@ -13,7 +13,8 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 ![Networking](https://img.shields.io/badge/Redes-0078D7?style=for-the-badge&logo=cisco&logoColor=white) _
 ![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white)
 
-- Montagem e manutenção de **Microcomputadores**;
+- Montagem, limpeza e manutenção de **Microcomputadores**;
+- Montagem de **Cabeamento Estruturado**;
 - Instalação e configuração de **Redes Locais (LAN) e Redes de Áreas de Longas Distâncias (WAN)**;  
 - Noções de **Segurança da Informação** e **Infraestrutura de TI**.
 
@@ -28,10 +29,7 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohreismarques&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohreismarques&layout=compact&theme=tokyonight&hide_border=false" height="180em"/>
-</p>
+![Minhas Estatísticas do GitHub](github-readme-stats.vercel.app)
 
 ---
 
