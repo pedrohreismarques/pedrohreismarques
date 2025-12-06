@@ -27,12 +27,6 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Minhas Estatísticas do GitHub](github-readme-stats.vercel.app)
-
----
-
 ## ⚙️ Tecnologias e Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) _
