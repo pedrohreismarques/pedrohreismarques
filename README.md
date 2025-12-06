@@ -2,7 +2,7 @@
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e infraestrutura, desenvolvimento web**...
+Sou apaixonado por tecnologia e pelo funcionamento de tudo o que envolve **computadores, redes e infraestrutura**...
 Gosto de entender cada parte de um sistema — desde o hardware até o software — e estou sempre buscando aprender mais sobre o universo da **TI**.  
 Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, contribuindo com soluções eficientes e seguras.
 
@@ -23,13 +23,6 @@ Meu objetivo é crescer profissionalmente na área de infraestrutura e redes, co
 - Manipulação básica de **Imagens Gráficas**;
 - Organização de elementos estruturais de **Sites e Interfaces**;
 - Criação de **Cartazes e Posts** para Instagram.
-
-### 🌐 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) _
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-- **HTML5** e **CSS3** — Criação de páginas web estruturadas e responsivas;
-- **Desenvolvimento de Aplicações Desktop e Web**.
 
 ---
 
