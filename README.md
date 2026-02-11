@@ -49,8 +49,6 @@ Atualmente cursando o Técnico em Informática no **Senac**, onde desenvolvo uma
 
 ---
 
-### 🐍 My Contributions Snake
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pedrohreismarques/pedrohreismarques/output/github-contribution-grid-snake.svg)
 
 ---
