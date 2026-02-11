@@ -44,6 +44,7 @@ Atualmente cursando o Técnico em Informática no **Senac**, onde desenvolvo uma
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 
+
 [![Office 365](https://img.shields.io/badge/Microsoft_365-2B579A?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Hardware](https://img.shields.io/badge/Hardware_Maintenance-FF9900?style=for-the-badge&logo=cog&logoColor=white)](#)
 
