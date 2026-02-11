@@ -25,10 +25,12 @@ Atualmente cursando o Técnico em Informática no **Senac**, onde desenvolvo uma
 
 **Tech Stack:**
 * **Redes:** Cisco IOS, TCP/IP, Firewall, Windows/Linux Server.
+
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
 * **Web-Design:** Canva, Figma (noções), HTML5, CSS3, JavaScript e Bootstrap.
+
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
@@ -37,6 +39,7 @@ Atualmente cursando o Técnico em Informática no **Senac**, onde desenvolvo uma
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 * **Softwares:** VS Code, Packet Tracer, VMware/VirtualBox.
+
 [![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-005A70?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
