@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Reis Marques
+# 👨‍💻 Pedro Henrique dos Reis Marques
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Tecnologia+%7C+Redes+%7C+Infraestrutura;Construindo+solu%C3%A7%C3%B5es+atrav%C3%A9s+da+tecnologia;Sempre+aprendendo%2C+sempre+evoluindo." alt="Typing SVG" />
