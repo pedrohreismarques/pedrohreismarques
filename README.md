@@ -64,11 +64,7 @@ Tenho foco em conceitos e práticas relacionados a:
 
 Formação técnica voltada para fundamentos de informática, sistemas, hardware, software e suporte tecnológico.
 
-### 🌐 Técnico em Redes de Computadores
-
-Formação direcionada para **redes, infraestrutura, conectividade e administração de ambientes computacionais**.
-
-### 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
+### 🎓 Curso Superior de Tecnologia de Redes de Computadores
 
 Em andamento, ampliando meus conhecimentos em **desenvolvimento de software, bancos de dados, sistemas e tecnologia da informação**.
 
@@ -98,7 +94,6 @@ Em andamento, ampliando meus conhecimentos em **desenvolvimento de software, ban
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -113,18 +108,11 @@ Em andamento, ampliando meus conhecimentos em **desenvolvimento de software, ban
 
 ## 🚀 Projetos
 
-### 📚 Repositório Técnico em Informática
+### 📚 Repositório Redes de Computadores
 
-Repositório criado para organização e compartilhamento de materiais relacionados à formação em informática, reunindo conteúdos e conhecimentos adquiridos durante os estudos.
+Repositório criado para organização e compartilhamento de materiais relacionados à formação em Redes de Computadores, reunindo conteúdos e conhecimentos adquiridos durante os estudos.
 
-🔗 [Acessar repositório](https://github.com/pedrohreismarques/senac-tat)
-
-### 🌐 One Page
-
-Projeto web desenvolvido com foco em construção de uma página utilizando tecnologias fundamentais do desenvolvimento web.
-
-🔗 [Acessar projeto](https://github.com/pedrohreismarques/one-page)
-
+🔗 [Acessar repositório]()
 ---
 
 ## 🎯 Atualmente estudando
@@ -136,9 +124,11 @@ Estou direcionando meus estudos para ampliar meus conhecimentos em:
 🖧 Infraestrutura de Redes
 🔐 Segurança da Informação
 ☁️ Cloud Computing
-💻 Desenvolvimento de Sistemas
+💻 Automação em Redes
+👨🏻‍💻 Desenvolvimento de Sistemas
 🗄️ Bancos de Dados
 🐧 Linux
+🪟 Windows
 ```
 
 ---
